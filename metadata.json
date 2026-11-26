@@ -1,0 +1,6 @@
+{
+  "name": "PyFlow — Python Loop & Function Visualizer",
+  "description": "Interactive step-by-step visualizer for Python loops and functions with an animated function machine, live code highlighting, and console output.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
